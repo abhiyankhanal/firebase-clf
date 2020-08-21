@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "thefoodly-npj",
+    "staging": "thefoodly-npj"
+  }
+}
